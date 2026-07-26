@@ -51,6 +51,33 @@ I'm passionate about Software Development, Artificial Intelligence, Cybersecurit
 - Improve Problem Solving
 - Become Software Engineer
 
+  ## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedabdo-del&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabdo-del&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdo-del&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedabdo-del&theme=darkhub"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohammedabdo-del&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 ---
 
 ## 📫 Contact
